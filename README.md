@@ -1,8 +1,3 @@
-# nethammer
-Here's a sample `README.md` section that you can include in your GitHub repository for **NetHammer**. This section will guide users through the installation process.
-
----
-
 # NetHammer
 
 **NetHammer** is a powerful tool designed to simulate Distributed Denial of Service (DDoS) attacks for network stress testing and educational purposes.
